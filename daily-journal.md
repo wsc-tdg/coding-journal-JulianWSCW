@@ -5,5 +5,6 @@
 <!-- Write your first journal answer here -->
 ⌨️ 
 
-### 🖥 1:
+### 🖥 1: What kind of information could someone learn about you by looking at websites you have accounts on?
+They could find looks, important dates, etc
 ⌨️ 
