@@ -11,3 +11,8 @@ They could find looks, important dates, etc
 
 Lesson: 11
 What is the purpose of links? why would people include them in their websites, and why would people want to click them?
+
+
+Lesson 12 
+What do you want to achieve in your website today?
+I want to know how to view what it looks like after I do something
